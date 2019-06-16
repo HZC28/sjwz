@@ -1,0 +1,23 @@
+{
+	"items":[
+					{"name":"vivo","img":"../../../static/phone/big/s1.jpg","people":"黄先生","price":2200,
+					"status":"已付款","dowhat":"确定收货",
+					"time":"2019年5月13日","number":"bk127232"},
+					{"name":"huawei","img":"../../../static/phone/big/s2.jpg","people":"黄先生","price":2200,
+					"status":"已付款","dowhat":"确定收货",
+					"time":"2019年4月13日","number":"bk121232"},
+					{"name":"oppo","img":"../../../static/phone/big/s3.jpg","people":"黄先生","price":2200,
+					"status":"已付款","dowhat":"确定收货",
+					"time":"2019年3月3日","number":"bu8327232"},
+					{"name":"iphone","img":"../../../static/phone/big/s4.jpg","people":"黄先生","price":2200,
+					"status":"已付款","dowhat":"确定收货",
+					"time":"2018年12月15日","number":"hy123213"},
+					{"name":"honor","img":"../../../static/phone/big/s5.jpg","people":"黄先生","price":2200,
+					"status":"已付款","dowhat":"确定收货",
+					"time":"2018年11月13日","number":"bk627232"},
+					{"name":"vivo","img":"../../../static/phone/big/s6.jpg","people":"黄先生","price":2200,
+					"status":"已付款","dowhat":"确定收货",
+					"time":"2019年5月13日","number":"bi454232"}
+			
+				]
+}

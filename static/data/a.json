@@ -1,0 +1,7 @@
+{
+  "items":[
+			{"num":1,"img":"../../static/img/p1.jpg","name":"及时行乐","lv":23},
+			{"num":2,"img":"../../static/img/p2.jpg","name":"FFOIJI","lv":12},
+			{"num":3,"img":"../../static/img/p3.jpg","name":"可爱控","lv":26}
+		]
+}

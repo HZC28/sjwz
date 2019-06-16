@@ -1,0 +1,40 @@
+{
+	"items":[
+		{
+			"detail":"vivox20 4800万超广角AI四摄 3200W美颜自拍 麒麟Kirin980",
+			"shopname":"vivo官方旗舰店",
+			"guige":"全网通版8GB+128GB",
+			"price":2310,
+			"num":1,
+			"select":false,
+			"img":"../../../static/phone/big/s4.jpg"
+		},
+		{
+			"detail":"小米 红米Redmi Note7Pro AI双摄  双卡双待 水滴屏拍照游戏手机",
+			"shopname":"小米官方旗舰店",
+			"guige":"6GB+128GB 梦幻蓝 全网通4G",
+			"price":4310,
+			"num":1,
+			"select":false,
+			"img":"../../../static/phone/big/s8.jpg"
+		},
+		{
+			"detail":"荣耀20 4800万超广角AI四摄 3200W美颜自拍 麒麟980，4800万超广角AI四摄",
+			"shopname":"hovor官方旗舰店",
+			"guige":"全网通版8GB+128GB 幻影蓝",
+			"price":3310,
+			"num":1,
+			"select":true,
+			"img":"../../../static/phone/big/s11.jpg"
+		},
+		{
+			"detail":"vivox20 4800万超广角AI四摄 3200W美颜自拍 麒麟Kirin980",
+			"shopname":"vivo官方旗舰店",
+			"guige":"全网通版8GB+128GB",
+			"price":6310,
+			"num":1,
+			"select":true,
+			"img":"../../../static/phone/big/s6.jpg"
+		}
+	]
+}

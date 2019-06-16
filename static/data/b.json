@@ -1,0 +1,32 @@
+{
+	"name":"荣耀20",
+	"detail":"4800万超广角AI四摄 3200W美颜自拍 麒麟Kirin980全网通版8GB+128GB移动联通电信4G全面屏",
+	"colors":[
+		"幻影蓝",
+		"幻影白",
+		"幻影黑",
+		"金色"
+	],
+	"addservers":[
+		{
+			"type":"半年无忧保",
+			"price":"120"
+		},
+		{
+			"type":"碎屏无忧保",
+			"price":"230"
+		},
+		{
+			"type":"只换不修2年",
+			"price":"340"
+		}
+	],
+	"imgs":[
+		"../../../static/phone/big/s1.jpg",
+		"../../../static/phone/big/s2.jpg",
+		"../../../static/phone/big/s3.jpg",
+		"../../../static/phone/big/s4.jpg",
+		"../../../static/phone/big/s5.jpg"
+	]
+
+}

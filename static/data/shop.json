@@ -1,0 +1,25 @@
+{
+	"items":[
+					
+		{"name":"vivo1","img":"../../../static/phone/big/s12.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo2","img":"../../../static/phone/big/s17.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo3","img":"../../../static/phone/big/s2.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo4","img":"../../../static/phone/big/s5.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo5","img":"../../../static/phone/big/s7.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo","img":"../../../static/phone/big/s18.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo","img":"../../../static/phone/big/s9.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo","img":"../../../static/phone/big/s6.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo","img":"../../../static/phone/big/s5.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo","img":"../../../static/phone/big/s3.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo","img":"../../../static/phone/big/s12.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo","img":"../../../static/phone/big/s17.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo","img":"../../../static/phone/big/s2.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo","img":"../../../static/phone/big/s5.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo","img":"../../../static/phone/big/s7.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo","img":"../../../static/phone/big/s18.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo","img":"../../../static/phone/big/s9.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo","img":"../../../static/phone/big/s6.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo","img":"../../../static/phone/big/s5.jpg","yuanjia":22200,"xianjia":12000},
+		{"name":"vivo","img":"../../../static/phone/big/s3.jpg","yuanjia":22200,"xianjia":12000}
+	]
+}

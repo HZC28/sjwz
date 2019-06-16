@@ -1,0 +1,17 @@
+{
+	"items":[
+					{"name":"vivo","img":"../../../static/phone/big/s1.jpg","people":"黄先生","price":5600,
+					"status":"未付款","what":["去结算","删除"],
+					"time":"2019年5月13日","number":"ak127232"},
+					{"name":"huiwei","img":"../../../static/phone/big/s10.jpg","people":"黄先生","price":2200,
+					"status":"未付款","what":["去结算","删除"],
+					"time":"2019年5月13日","number":"ae327232"},
+					{"name":"oppo","img":"../../../static/phone/big/s8.jpg","people":"黄先生","price":2340,
+					"status":"未付款","what":["去结算","删除"],
+					"time":"2019年5月13日","number":"at527232"},
+					{"name":"vivo","img":"../../../static/phone/big/s4.jpg","people":"黄先生","price":1200,
+					"status":"未付款","what":["去结算","删除"],
+					"time":"2019年5月13日","number":"aq237232"}
+			
+				]
+}
